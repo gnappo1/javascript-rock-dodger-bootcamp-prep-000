@@ -1,8 +1,7 @@
 /**
  * Don't change these constants!
  */
- import pry from 'pryjs'
-
+const pry = require('pryjs')
 const DODGER = document.getElementById('dodger')
 const GAME = document.getElementById('game')
 const GAME_HEIGHT = 400
