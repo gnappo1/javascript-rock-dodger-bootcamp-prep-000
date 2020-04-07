@@ -17,9 +17,10 @@ var gameInterval = null
  * Be aware of what's above this line,
  * but all of your work should happen below.
  */
- eval(pry.it)
 
 function checkCollision(rock) {
+  eval(pry.it)
+
   // implement me!
   // use the comments below to guide you!
   const top = positionToInteger(rock.style.top)
